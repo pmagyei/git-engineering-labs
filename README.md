@@ -1,13 +1,24 @@
-1 tracked file unchanged
+# Git Mechanics Labs
 
-1 tracked file modified in the working tree but NOT staged
+Hands-on repository for developing practical Git, GitHub, and
+repository-recovery competence.
 
-1 tracked file with changes staged in the index
+## Objectives
 
-1 completely untracked file
+- Understand Git's working tree, index, objects, refs, and HEAD
+- Predict repository state before Git operations
+- Understand local and remote repository interactions
+- Practise safe history manipulation and recovery
+- Diagnose unfamiliar Git failures
 
-at least 2 commits
+## Labs
 
-at least 2 local branches pointing at different commits
+| Lab | Topic | Status |
+| --- | --- | --- |
+| 01 | Repository State | Complete |
+| 02 | Commits and Refs | Pending |
+| 03 | Remotes and Tracking Refs | Pending |
 
-HEAD attached to one of those branches
+## Troubleshooting
+
+Failure and recovery exercises are documented in `troubleshooting/`.
