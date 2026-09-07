@@ -1,4 +1,4 @@
-# Git Mechanics Labs
+# Git Enginering Labs
 
 Hands-on repository for developing practical Git, GitHub, and
 repository-recovery competence.
@@ -11,14 +11,16 @@ repository-recovery competence.
 - Practise safe history manipulation and recovery
 - Diagnose unfamiliar Git failures
 
-## Labs
+## Repo Directories
 
-| Lab | Topic | Status |
-| --- | --- | --- |
-| 01 | Repository State | Complete |
-| 02 | Commits and Refs | Pending |
-| 03 | Remotes and Tracking Refs | Pending |
+### Branches and Tracking
 
-## Troubleshooting
+- Reason about local/remote relationships. [branchhes-and-tracking](./branches-and-tracking/)
 
-Failure and recovery exercises are documented in `troubleshooting/`.
+### Git Mechanics
+
+- Undersatnd and maniulate local repository state. [git-mechanics](./git-mechanics/)
+
+### Troubleshooting
+
+- Failure and recovery labs are documented in [troubleshooting](./).
