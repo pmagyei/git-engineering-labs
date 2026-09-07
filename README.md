@@ -15,7 +15,7 @@ repository-recovery competence.
 
 ### Branches and Tracking
 
-- Reason about local/remote relationships. [branchhes-and-tracking](./branches-and-tracking/)
+- Reason about local/remote relationships. [branches-and-tracking](./branches-and-tracking/)
 
 ### Git Mechanics
 
